@@ -1,4 +1,4 @@
-/* PALINDROME */
+/* PLAY WITH CSV AND OBJECT */
 
 export {}
 
