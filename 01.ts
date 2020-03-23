@@ -28,3 +28,15 @@ console.log('Input : palindrome(sentences)');
 console.log('=============================');
 console.log('Output : \\/');
 palindrome(sentences);
+
+/** OUTPUT
+  Input : palindrome(sentences)
+  =============================
+  Output : \/
+  ini = Palindrome
+  A = Palindrome
+  a = Palindrome
+  a = Palindrome
+  a = Palindrome
+  I = Palindrome
+*/
